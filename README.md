@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello! 👋
+
+I build scalable bioinformatics workflows, develop full-stack web applications for genomics data analysis, and architect AWS-based data solutions that transform biological datasets into actionable insights.
+
+🧬 Focus: NGS pipelines, RNA-Seq analysis, cancer diagnostics
+☁️  Tools: Python, Nextflow, Snakemake, R, AWS, Docker, Flask, PostgreSQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryland-bednarek)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=4-NB5nkAAAAJ&hl=en)
 
 <!--
 **rbednarek/rbednarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
