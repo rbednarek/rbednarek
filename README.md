@@ -3,6 +3,7 @@
 I build scalable bioinformatics workflows, develop full-stack web applications for genomics data analysis, and architect AWS-based data solutions that transform biological datasets into actionable insights.
 
 🧬 Focus: NGS pipelines, RNA-Seq analysis, cancer diagnostics
+
 ☁️  Tools: Python, Nextflow, Snakemake, R, AWS, Docker, Flask, PostgreSQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryland-bednarek)
