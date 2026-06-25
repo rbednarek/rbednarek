@@ -1,8 +1,6 @@
 ## Hello! 👋
 
-I build full-stack software and data platforms that support biological R&D — from
-scientific registration and ordering systems to AWS-based infrastructure that turns
-biological data into actionable insights.
+I'm a software engineer building the internal tools scientists use for drug discovery including sequence registration, ordering systems, and the data infrastructure behind them.
 
 🧬 Focus: 
 - Systems Engieering and custom software development for biological operations
